@@ -1,0 +1,16 @@
+{
+  "formatVersion": "202502",
+  "computeEngineSettings": {
+    "allowModernEvaluationEngine": true
+  },
+  "name": "Dataflow 1",
+  "queryGroups": [],
+  "documentLocale": "en-US",
+  "queriesMetadata": {
+    "produktai": {
+      "queryId": "534c3c8a-de41-4c31-aa82-ee3db9ed2591",
+      "queryName": "produktai"
+    }
+  },
+  "connections": []
+}
