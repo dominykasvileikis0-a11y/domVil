@@ -57,7 +57,7 @@
       "type": "CustomVisual",
       "items": [
         {
-          "name": "heatmapF244EA9EE1F34E828A80CF19B41976F8.pbiviz.json",
+          "name": "resources/heatmapF244EA9EE1F34E828A80CF19B41976F8.pbiviz.json",
           "path": "heatmapF244EA9EE1F34E828A80CF19B41976F8.pbiviz.json",
           "type": "CustomVisualMetadata"
         }
@@ -68,7 +68,7 @@
       "type": "CustomVisual",
       "items": [
         {
-          "name": "threejsE0E480FFE18F46FE90AD2FA3A0D80C5F.pbiviz.json",
+          "name": "resources/threejsE0E480FFE18F46FE90AD2FA3A0D80C5F.pbiviz.json",
           "path": "threejsE0E480FFE18F46FE90AD2FA3A0D80C5F.pbiviz.json",
           "type": "CustomVisualMetadata"
         }
