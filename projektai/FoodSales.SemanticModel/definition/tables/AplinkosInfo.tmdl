@@ -1,0 +1,23 @@
+table AplinkosInfo
+	lineageTag: 74ce1d56-f42e-4032-9a46-7fb45c177d58
+
+	column Aplinka
+		dataType: string
+		lineageTag: 1f049c96-60b6-4faa-9fa1-ddbb4f479af4
+		summarizeBy: none
+		sourceColumn: Aplinka
+
+		annotation SummarizationSetBy = Automatic
+
+	partition AplinkosInfo = m
+		mode: import
+		source =
+				let
+				    Source = #table({"Aplinka"}, {{Aplinka}})
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+
