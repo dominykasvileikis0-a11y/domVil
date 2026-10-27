@@ -1,0 +1,7 @@
+expression Aplinka = "DEV" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+	lineageTag: e8003173-e587-413a-bfe5-225994f68a65
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Text
+
